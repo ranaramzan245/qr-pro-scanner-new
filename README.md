@@ -1,0 +1,1 @@
+# qr-pro-scanner-new
